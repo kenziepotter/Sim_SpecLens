@@ -4,6 +4,6 @@ This repository holds the code and plots that Noah Franz, Brian Bauer, and John 
 
 ## DESI Dependencies
 
-Redrock: https://github.com/desihub/redrock
-desisim: https://github.com/desihub/desisim
-desispec: https://github.com/desihub/desispec
+Redrock: https://github.com/desihub/redrock \
+desisim: https://github.com/desihub/desisim \
+desispec: https://github.com/desihub/desispec \
